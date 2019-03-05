@@ -4,5 +4,5 @@ It increases efficiency and productivity of library workers and reduce the cost 
 Overall manages the catelog of library.
 ## Requirements
 Eclipse and Netbeans
-## Future requirements
+## Future Trends
 MySql and GUI
